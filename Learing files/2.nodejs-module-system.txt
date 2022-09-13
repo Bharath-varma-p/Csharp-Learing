@@ -1,0 +1,4 @@
+--> create a file name app.js
+            --> fs.writeFileSync('node.txt','content to be placed')
+            -->  before we able to use fs we need to load the require module via require('fs')
+            --> write file and writefilesync helps us to create a file and write something
