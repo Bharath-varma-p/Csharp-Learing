@@ -1,0 +1,40 @@
+->     Before node js is not allowed to use as general purpose programming language
+->     Nodejs is a javascript runtime nodejs is not a programing language \\\ The code is written in javaScript.
+->     Node provide libraries which help developers
+->     DOM == "Html, css, javaScript files which are stored as a obeject is know as Document object model
+
+
+
+
+
+->     Browser have access to documents where as in node we have Process
+
+
+1) process has all the methods like exit, kill.   eg: process.exit() or process.kill()
+
+----------------------------
+Use of nodejs
+--------------------------
+1.  Nodejs is an event driven
+2.  Non-Blocking I/O that makes lightweight and efficient.
+3.  
+
+
+
+
+--------------------------
+
+        Advantage
+--------------------------
+
+
+" A Node module is a reusable block of code whose existence does not accidentally impact other code."
+
+
+
+
+
+
+
+
+
