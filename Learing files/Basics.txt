@@ -1,0 +1,4 @@
+->     Before node js is not allowed to use as general purpose programming language
+->     Nodejs is a javascript runtime nodejs is not a programing language \\\ The code is written in javaScript.
+->     Node provide libraries which help developers
+->     DOM == "Html, css, javaScript files which are stored as a obeject is know as Document object model
