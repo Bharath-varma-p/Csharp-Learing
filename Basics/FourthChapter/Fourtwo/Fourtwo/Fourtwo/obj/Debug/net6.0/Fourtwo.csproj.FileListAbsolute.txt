@@ -1,0 +1,15 @@
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/bin/Debug/net6.0/Fourtwo
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/bin/Debug/net6.0/Fourtwo.deps.json
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/bin/Debug/net6.0/Fourtwo.runtimeconfig.json
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/bin/Debug/net6.0/Fourtwo.dll
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/bin/Debug/net6.0/Fourtwo.pdb
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/Fourtwo.csproj.AssemblyReference.cache
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/Fourtwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/Fourtwo.AssemblyInfoInputs.cache
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/Fourtwo.AssemblyInfo.cs
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/Fourtwo.csproj.CoreCompileInputs.cache
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/Fourtwo.dll
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/refint/Fourtwo.dll
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/Fourtwo.pdb
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/Fourtwo.genruntimeconfig.cache
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourtwo/Fourtwo/Fourtwo/obj/Debug/net6.0/ref/Fourtwo.dll
