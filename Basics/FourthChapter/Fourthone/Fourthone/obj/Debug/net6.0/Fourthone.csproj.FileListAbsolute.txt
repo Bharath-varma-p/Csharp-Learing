@@ -1,0 +1,15 @@
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/bin/Debug/net6.0/Fourthone
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/bin/Debug/net6.0/Fourthone.deps.json
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/bin/Debug/net6.0/Fourthone.runtimeconfig.json
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/bin/Debug/net6.0/Fourthone.dll
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/bin/Debug/net6.0/Fourthone.pdb
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/Fourthone.csproj.AssemblyReference.cache
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/Fourthone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/Fourthone.AssemblyInfoInputs.cache
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/Fourthone.AssemblyInfo.cs
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/Fourthone.csproj.CoreCompileInputs.cache
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/Fourthone.dll
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/refint/Fourthone.dll
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/Fourthone.pdb
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/Fourthone.genruntimeconfig.cache
+/Users/bharath/Documents/Csharp Learing/Basics/FourthChapter/Fourthone/Fourthone/obj/Debug/net6.0/ref/Fourthone.dll

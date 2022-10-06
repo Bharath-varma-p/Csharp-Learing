@@ -1,0 +1,15 @@
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/bin/Debug/net6.0/Csharp01
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/bin/Debug/net6.0/Csharp01.deps.json
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/bin/Debug/net6.0/Csharp01.runtimeconfig.json
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/bin/Debug/net6.0/Csharp01.dll
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/bin/Debug/net6.0/Csharp01.pdb
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/Csharp01.csproj.AssemblyReference.cache
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/Csharp01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/Csharp01.AssemblyInfoInputs.cache
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/Csharp01.AssemblyInfo.cs
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/Csharp01.csproj.CoreCompileInputs.cache
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/Csharp01.dll
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/refint/Csharp01.dll
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/Csharp01.pdb
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/Csharp01.genruntimeconfig.cache
+/Users/bharath/Documents/Csharp Learing/Basics/Csharp01/Csharp01/obj/Debug/net6.0/ref/Csharp01.dll
