@@ -1,0 +1,15 @@
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/bin/Debug/net6.0/Tpoint
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/bin/Debug/net6.0/Tpoint.deps.json
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/bin/Debug/net6.0/Tpoint.runtimeconfig.json
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/bin/Debug/net6.0/Tpoint.dll
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/bin/Debug/net6.0/Tpoint.pdb
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/Tpoint.csproj.AssemblyReference.cache
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/Tpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/Tpoint.AssemblyInfoInputs.cache
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/Tpoint.AssemblyInfo.cs
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/Tpoint.csproj.CoreCompileInputs.cache
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/Tpoint.dll
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/refint/Tpoint.dll
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/Tpoint.pdb
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/Tpoint.genruntimeconfig.cache
+/Users/bharath/Documents/Csharp Learing/Basics/Quick Grasp/Tpoint/Tpoint/obj/Debug/net6.0/ref/Tpoint.dll
